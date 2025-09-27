@@ -87,9 +87,11 @@ GitHub Secrets Required
 
 * EC2_SSH_KEY: The private key for SSH (add this as a multiline secret)
 
-<img width="2494" height="1408" alt="Screenshot from 2025-09-12 02-39-39" src="https://github.com/user-attachments/assets/09cb98ca-85d2-4553-b74f-77ba8611dd5d" />
 
-<img width="2494" height="1408" alt="Screenshot from 2025-09-12 02-39-49" src="https://github.com/user-attachments/assets/e569cfd6-11df-4fc2-b452-b2235ed10736" />
+<img width="2420" height="1250" alt="Screenshot from 2025-09-27 19-03-17" src="https://github.com/user-attachments/assets/36f9e500-c36f-423f-b30f-bf3d9fc9e343" />
+
+<img width="1810" height="424" alt="Screenshot from 2025-09-27 19-02-42" src="https://github.com/user-attachments/assets/d4f64a19-2205-4974-8b0b-c5aded2504b0" />
+<img width="2402" height="1136" alt="Screenshot from 2025-09-27 19-00-58" src="https://github.com/user-attachments/assets/8038beb4-1b05-48f0-a462-17a1c3c4c7e9" />
 
 
 
