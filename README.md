@@ -85,7 +85,7 @@ GitHub Secrets Required
 
 * EC2_USER: The EC2 SSH user (e.g., ubuntu)
 
-* EC2_SSH_KEY: The private key for SSH (add this as a multiline secret
+* EC2_SSH_KEY: The private key for SSH (add this as a multiline secret)
 
 
 <img width="2420" height="1250" alt="Screenshot from 2025-09-27 19-03-17" src="https://github.com/user-attachments/assets/36f9e500-c36f-423f-b30f-bf3d9fc9e343" />
